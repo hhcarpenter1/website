@@ -1,0 +1,68 @@
+<hr>
+
+
+
+<div class="row">
+  <div class="footer">
+    <table>
+      <tr>
+        <td>
+          <div class="footer-map">
+            <h1>Map</h1> 
+            <hr>
+            <div id="map" style="width:400px;height:200px"></div>
+            </div>
+        </td>    
+
+<td>
+<div class="footer-contact">
+<h1>Contact Info</h1>
+<hr>
+<p>Knox College</p>
+<p>2 E South Street Box #472</p>
+<p>Galesburg, Illinois 61401</p>
+<p>(708)-446-1899</p>
+<p>hhcarpenter@knox.edu</p>
+</div>
+    </td>    
+        <td>
+          <div class="footer-about">
+            <h1>About Me</h1> 
+            <hr>
+            <p>Harry Carpenter</p>
+            <p>Knox College Class of 2018</p>
+            <p>Computer Science Major</p>
+            <p>Economics Minor</p>
+          </div>
+        </td>    
+      </tr>    
+    </table>
+  </div>
+</div>
+
+
+    <div class="end-page">
+      <h3>Harry Carpenter | 2017</h3>
+    </div>
+</body>
+
+<script>    
+function initMap() {
+var uluru = {lat: 40.9434508, lng:-90.3708958};
+var map = new google.maps.Map(document.getElementById('map'), {
+  zoom: 16,
+  center: uluru
+});
+var marker = new google.maps.Marker({
+  position: uluru,
+  map: map
+});
+}
+</script>
+
+
+<script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA0giTKufeTHjJyYJjBo6wThGG1M1n-Yko&callback=initMap">
+</script>
+
+</html>

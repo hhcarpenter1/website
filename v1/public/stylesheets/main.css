@@ -1,0 +1,246 @@
+.navbar-inverse {
+    background-color: steelblue;
+    border-color: steelblue;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.top {
+    padding: 100px;
+    text-align: center;
+    background: url("./Website_Pictures/tileable-light-blurs-and-abstract-circles-18.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Roboto;
+}
+
+.top h1 {
+    color: white;
+    font-size: 800%;
+}
+
+.top h2 {
+    color: white;
+    font-size: 400%;
+}
+
+.top h3 {
+    color: white;
+}
+
+
+.working {
+    margin-left: auto;
+}
+
+.working p {
+    text-align: center;
+    padding-left: 250px;
+    
+}
+
+.working h3 {
+    text-align: center;
+    padding-left: 250px;
+}
+
+.about-description h2 {
+    text-align: center;
+    font-size: 300%;
+    
+    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+
+.about-pic {
+    padding: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    background: url("./Website_Pictures/personal_website_3-1500x1125.jpg") no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}
+
+.about-description {
+    font-size: 200%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.footer-about {
+    position: relative;
+    color: white;
+    margin-right: 50px;
+    font-size: 150%;
+    text-align: center;
+    height: 380px;
+    width: 400px;
+}
+
+.footer {
+    background: steelblue;
+}
+
+
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    font-weight: bold;
+    background-color: steelblue;
+}
+
+.footer table {
+    width: 100%;
+    border-collapse: separate;
+}
+
+.footer-map h1 {
+    margin-left: 173px;
+    color: white;
+}
+
+
+
+
+.footer-map {
+    margin-left: 25px;
+    height: 380px;
+    width: 400px;
+  
+}
+
+.footer-contact {
+    color: white;
+    height:380px;
+    width: 400px;
+    text-align: center;
+    font-size: 150%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.end-page {
+    text-align: center;
+}
+
+
+.portfolio {
+    text-align: center;
+    margin-right: 50px;
+}
+
+
+
+.portfolio p {
+    margin-right: 50px;
+    font-size: 125%;
+}
+
+.portfolio td {
+    padding: 25px;
+}
+
+.portfolio h3 {
+    font-weight: bolder;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    font-weight: bold;
+    color: white;
+}
+
+.knox-activities {
+    text-align: center;
+}
+
+.knox-activities table {
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+.knox-activities td {
+    padding: 100px;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+ 
+
+
+    
+}
+
+.APO-PIC1 {
+    background: url("./Website_Pictures/apo.jpg") no-repeat center center; 
+}
+
+.APO-PIC2 {
+    background: url("./Website_Pictures/apo-clapping.jpg") no-repeat center center; 
+}
+
+.APO-PIC3 {
+    background: url("./Website_Pictures/service.PNG") no-repeat center center; 
+}
+
+
+
+.Swimming-PIC1 {
+    background: url("./Website_Pictures/knox-swimming.jpg") no-repeat center center; 
+}
+
+.Swimming-PIC2 {
+    background: url("./Website_Pictures/harry-swimming.jpg") no-repeat center center; 
+}
+
+
+.BB-PIC1 {
+    background: url("./Website_Pictures/Best-Buddies.JPG") no-repeat center center; 
+}
+
+
+.BB-PIC2 {
+    background: url("./Website_Pictures/best-buddies-2.jpg") no-repeat center center; 
+}
+
+.BB-PIC3 {
+    background: url("./Website_Pictures/Polar_Plunge.jpg") no-repeat center center; 
+}
+
+.WP-PIC1 {
+    background: url("./Website_Pictures/water-polo-1.jpg") no-repeat center center;
+}
+
+.WP-PIC2 {
+    background: url("./Website_Pictures/water-polo-2.jpg") no-repeat center center;
+}
+
+.WP-PIC3 {
+    background: url("./Website_Pictures/water-polo-3.jpg") no-repeat center center;
+}
+
+
+
+
+
+
